@@ -19,8 +19,9 @@ Or install it yourself as:
     $ gem install john_alves_view_tool
 
 ## Usage
-
-TODO: Write usage instructions here
+```ruby
+JohnAlvesViewTool::Renderer.copyright 'John Alves', 'All rights reserved'
+```
 
 ## Development
 
